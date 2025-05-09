@@ -1,0 +1,2 @@
+chmod +x install-minikube.sh
+./install-minikube.sh
